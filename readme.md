@@ -2,6 +2,12 @@
 
 > A curated list of awesome AI tools for music composition, generation, enhancement, and more.
 
+
+### related links
+
+[There's An AI](https://theresanai.com) - [Best Audio AI Tools](https://theresanai.com/category/audio) - [Best Music AI Tools](https://theresanai.com/category/audio)  - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+
+
 ## Contents
 
 - [Music Composition and Generation](#music-composition-and-generation)
