@@ -40,9 +40,20 @@
 
 ## Voice Synthesis and Cloning
 
+*You can also find a  more comprehensive list on [There's an AI, AI Voice Cloning list](https://theresanai.com/category/voice-cloning)*
+
+- [Descript Overdub](https://www.descript.com/overdub) - [Review](https://theresanai.com/descript-overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
+- [Respeecher](https://www.respeecher.com/) - [Review](https://theresanai.com/respeecher) -  A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
+- [ElevenLabs](https://elevenlabs.io/) - [Review](https://theresanai.com/elevenlabs) - Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
+- [Resemble AI](https://www.resemble.ai/) - [Review](https://theresanai.com/resemble-ai) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
+- [Murf AI](https://murf.ai/) - [Review](https://theresanai.com/murf) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
+- [iSpeech](https://www.ispeech.org/) - [Review](https://theresanai.com/ispeech) - A versatile solution for corporate applications with support for a wide array of languages and voices.
+- [Veritone Voice](https://www.veritone.com/solutions/voice/) - [Review](https://theresanai.com/veritone-voice) - Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.
+- [Microsoft Azure Neural TTS](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - Review - Scalable and highly customizable, ideal for integration into enterprise applications.
+- [WellSaid Labs](https://www.wellsaidlabs.com/) - [Review](https://theresanai.com/wellsaid-labs) - Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.
+- [Lovo.ai](https://www.lovo.ai/) - [Review](https://theresanai.com/lovo-ai) - A compelling choice for creative professionals, especially useful in ads and explainer videos.
 - [Replica Studios](https://replicastudios.com/) - AI voice actors for video games, films, and other media.
 - [Lyrebird](https://lyrebird.ai/) - AI tool for creating realistic synthetic voices.
-- [Descript Overdub](https://www.descript.com/overdub) - Voice cloning and synthesis tool for creating lifelike audio.
 
 ## Music Education and Practice
 
